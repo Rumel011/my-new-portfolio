@@ -32,3 +32,24 @@ section{
     background-repeat: no-repeat;
 
 }
+section-2{
+    display: flex;
+}
+.link-button2{
+    text-decoration: none;
+    background-image: linear-gradient(rgba(224, 8, 41, 0.986),rgb(109, 233, 7));
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: darkgreen;
+    font-weight: 700;
+}
+.top-banner2{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+   background-position: right;
+   padding-right: 8%;
+}
